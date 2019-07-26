@@ -15,9 +15,12 @@ What does it mean? Try not to look at the definition below.
 
 
 ```
-Computer programming is a way of giving computers instructions about what they should do next. These instructions are known as code, and computer programmers write code to solve problems or perform a task.
+Computer programming is a way of giving computers instructions about what they should do next. 
+These instructions are known as code, and computer programmers write code to solve problems or perform a task.
 
-The end goal is to create something: that could mean anything from a web page, or a piece of software, or even just a pretty picture. That’s why computer programming is often described as a mix between art and science; it’s technical and analytical, yet creative at the same time.
+The end goal is to create something: that could mean anything from a web page, or
+a piece of software, or even just a pretty picture. That’s why computer programming is often described 
+as a mix between art and science; it’s technical and analytical, yet creative at the same time.
 ```
   -- [Karen McCandless](https://news.codecademy.com/what-is-computer-programming/)
 
