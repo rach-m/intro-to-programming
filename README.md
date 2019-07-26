@@ -15,11 +15,11 @@ What does it mean? Try not to look at the definition below.
 
 
 ```
-Computer programming is a way of giving computers instructions about what they should do next. 
+Computer programming is a way of giving computers instructions about what they should do next.
 These instructions are known as code, and computer programmers write code to solve problems or perform a task.
 
 The end goal is to create something: that could mean anything from a web page, or
-a piece of software, or even just a pretty picture. That’s why computer programming is often described 
+a piece of software, or even just a pretty picture. That’s why computer programming is often described
 as a mix between art and science; it’s technical and analytical, yet creative at the same time.
 ```
   -- [Karen McCandless](https://news.codecademy.com/what-is-computer-programming/)
@@ -27,9 +27,10 @@ as a mix between art and science; it’s technical and analytical, yet creative 
 
 So there are a couple of parts to our answer:
 
-1. Programming is a verb: we're doing something, namely making a program.
+1. Programming is a verb: we're doing something, namely creating a program.
 1. Programming is about interacting with computers. We are trying to get the computer to do something, after all.
 1. Programming is about solving problems.
+1. Programming is creative!
 
 How do those points stack up against what was in your answer?
 
@@ -69,7 +70,9 @@ Read through [this article](https://zellwk.com/blog/think/) on thinking like a p
 
 Consider a medical analogy:
 ```
-I’m going to use the electric shock that’s a form of medicine if you’re very ill, but can make you sort of ill if you’re fine. Clear! Oh no. He was fine. Now he’s poorly from too much electric.
+I’m going to use the electric shock that’s a form of medicineif you’re very ill,
+but can make you sort of ill if you’re fine. Clear! Oh no. He was fine.
+Now he’s poorly from too much electric.
 — That Mitchel and Webb Look
 ```
 Doctors do not discuss diagnoses with each other in simple terms. Medical schools don’t teach in simple terms, either. Medicine is complicated, so they communicate with a complicated set of terminology. Everyone understands the term “broken leg,” but that is too vague for a medical diagnosis. Using precise terminology like “transverse compound fracture of the tibia” allows medical staff and students to communicate accurately.
@@ -109,7 +112,8 @@ Here are the definitions for some basic programming terms, with usage examples. 
    - Example: Your code won’t compile because you forgot a closing bracket.
 
 - **Boolean**
-  - need definition
+  - (noun) a binary variable, having two possible values - `true` and `false`.
+  - Example: Since the answer will always be yes or no. I can use a boolean to represent it.
 
 - **Bug**
   - (noun) a mistake in a program.
@@ -251,9 +255,11 @@ more, check out the Additional Resources section below.
 Hungry for more? Want a little more practice? Here are a couple of resources for
 you to dig in to!
 
-* [Eloquent JavaScript](https://eloquentjavascript.net/) is a (free) book about programming and JavaScript. It is an excellent introduction to JavaScript.  *Tip: you may be able to skip chapter 1 and 2!*
-* [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&beta=false) has thousands of challenges for you to solve. We do CodeWars challenges a lot in WDI and many technical interviews contain a code challenge portion with assignments similar to the kind you'll find on CodeWars (if not from CodeWars). It's a great way to practice both programming and problem solving.
-* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - with some HTML and CSS and a little more JavaScript, you could be building interactive websites in no time!
+* [What Is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by: Paul Ford (if you haven't read it yet)
+
+* [How To Think Like a Coder: Lessons in Problem Solving](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+
+* [Best Programming Books For Beginners](https://www.bitdegree.org/tutorials/coding-books/)
 
 
-**Terms and Definitions were adapted from [here](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/)**
+*Terms and Definitions were adapted from [here](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/)*
